@@ -87,6 +87,7 @@ public class GameOf21 {
                                 System.out.println("Dealern drog " + dealerKort.getKort(dealerKort.deckSize() - 1).toString());
                                 keepGoing = false;
                             }
+                            
                             if (dealerKort.kortVärde()> spelarKort.kortVärde()&& dealerKort.kortVärde() <= 21 || dealerKort.kortVärde() == spelarKort.kortVärde()) {
                                 System.out.println("Du förlorar");
                                 keepGoing = false;

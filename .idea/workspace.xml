@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36ba7f3f-1204-4bda-a18a-889eca8f5fb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8DCDoZ0SMBc6iskqBwmtBUeTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameOf21" />
+      <module name="GameOf21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ba7f3f-1204-4bda-a18a-889eca8f5fb9" name="Default Changelist" comment="" />
+      <created>1586108197980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586108197980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-391" y="-1800" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586116520251">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state x="-391" y="-1800" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586116520251" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1586185039493">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586185039493" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1586185039493">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586185039493" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1586185039493">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586185039493" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1586185039493">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586185039493" />
+    <state x="-138" y="-1630" key="com.intellij.ide.util.TipDialog" timestamp="1586160166885">
+      <screen x="-1127" y="-2160" width="2560" height="1400" />
+    </state>
+    <state x="-138" y="-1630" key="com.intellij.ide.util.TipDialog/62.0.1218.720/-1127.-2160.2560.1400@-1127.-2160.2560.1400" timestamp="1586160166885" />
+  </component>
+</project>
